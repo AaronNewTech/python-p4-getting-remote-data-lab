@@ -18,5 +18,4 @@ class GetRequester:
         print(data)
         return data
     
-# data = GetRequester()
-# data_return = data.get_response_body()
+
